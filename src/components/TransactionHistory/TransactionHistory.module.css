@@ -1,0 +1,28 @@
+
+.transactionHistory {
+    margin: 0 auto;
+     max-width: 450px;
+     width: 100%;
+     border: 1px solid grey;
+     border-collapse: collapse;
+     text-align: center;
+ }
+ 
+ .row {
+     background-color: rgb(25, 137, 249);
+ color: white;
+ }
+ 
+ .cell {
+     border: 3px solid grey;
+     padding: 5px;
+     
+ }
+ .line:nth-child(even) {
+     background: rgb(237, 234, 234);
+ }
+ 
+ .cell {
+     border: 1px solid grey;
+     padding: 5px;
+ }

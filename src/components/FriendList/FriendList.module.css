@@ -1,0 +1,23 @@
+.friendListSection{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.friendList{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.status {
+    display: block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+}
+
+.green {
+    background-color: rgb(38, 232, 38);
+}
+
+.red {
+    background-color: rgb(251, 7, 7);
+}
